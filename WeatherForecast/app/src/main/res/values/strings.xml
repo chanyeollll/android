@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="menu_settings">Settings</string>
+        <string name="str_neterror">网络不可用</string>
+        <string name="str_inputwaring">请输入搜索内容</string>
+        <string name="str_hint_weather">请输入市的名字</string>
+        <string name="str_submit">查询</string>
+        <string name="str_citynonsupport">这城市或区域暂时不被支持。</string>
+</resources>
